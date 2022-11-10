@@ -7,7 +7,7 @@ policy "workspace_name" {
 }
 
 
-policy "random_decision" {
+policy "random_decision_random_decision_random_decision_random_decision_random_decision_random_decision_random_decision_random_decision_random_decision_random_decision" {
   enabled           = true
   enforcement_level = "advisory"
 }
