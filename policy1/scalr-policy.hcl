@@ -13,7 +13,7 @@ policy "workspace_name1" {
 
 policy "workspace_name2" {
   enabled           = true
-  enforcement_level = "advisory"
+  enforcement_level = "soft-mandatory"
 }
 
 policy "workspace_name3" {
