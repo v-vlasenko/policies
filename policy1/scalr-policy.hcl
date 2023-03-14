@@ -43,60 +43,60 @@ policy "workspace_name7" {
 
 policy "workspace_name8" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name9" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name10" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name11" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name12" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name13" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 policy "workspace_name14" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 policy "workspace_name15" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 policy "workspace_name16" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "soft-mandatory"
 }
 policy "workspace_name17" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "soft-mandatory"
 }
 policy "workspace_name18" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "soft-mandatory"
 }
 policy "workspace_name19" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "soft-mandatory"
 }
 policy "workspace_name20" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "soft-mandatory"
 }
 
 
