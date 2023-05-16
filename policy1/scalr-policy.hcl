@@ -102,7 +102,7 @@ policy "workspace_name20" {
 
 policy "random_decision" {
   enabled           = true
-  enforcement_level = "advisory"
+  enforcement_level = "soft-mandatory"
 }
 
 
