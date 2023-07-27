@@ -3,42 +3,42 @@ version = "v1"
 
 policy "workspace_name" {
   enabled           = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name1" {
   enabled           = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name2" {
   enabled           = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name3" {
   enabled           = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name4" {
   enabled           = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name5" {
   enabled           = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name6" {
   enabled           = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name7" {
   enabled           = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name8" {
@@ -80,29 +80,29 @@ policy "workspace_name15" {
 }
 policy "workspace_name16" {
   enabled           = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 policy "workspace_name17" {
   enabled           = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 policy "workspace_name18" {
   enabled           = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 policy "workspace_name19" {
   enabled           = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 policy "workspace_name20" {
   enabled           = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 
 policy "random_decision" {
   enabled           = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 
