@@ -1,7 +1,7 @@
 version = "v1"
 
 
-policy "workspace_name_workspace_name_workspace_name_workspace_name_workspace_name_workspace_name_workspace_name_workspace_name_workspace_name_workspace_name" {
+policy "workspace_name_workspace_name_workspace_name_workspace" {
   enabled           = true
   enforcement_level = "hard-mandatory"
 }
