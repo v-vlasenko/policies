@@ -3,42 +3,42 @@ version = "v1"
 
 policy "workspace_name_workspace_name_workspace_name_workspace" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name1" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name2" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name3" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name4" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name5" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name6" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name7" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "workspace_name8" {
