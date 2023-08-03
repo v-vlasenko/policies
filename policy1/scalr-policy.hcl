@@ -88,15 +88,15 @@ policy "workspace_name17" {
 }
 policy "workspace_name18" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 policy "workspace_name19" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 policy "workspace_name20" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 
