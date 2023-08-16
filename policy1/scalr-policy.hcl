@@ -7,7 +7,7 @@ policy "workspace_name_workspace_name_workspace_name_workspace" {
 }
 
 policy "workspace_name1" {
-  enabled           = true
+  enabled           = false
   enforcement_level = "advisory"
 }
 
