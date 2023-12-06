@@ -3,12 +3,12 @@ version = "v1"
 
 policy "workspace_name_workspace_name_workspace_name_workspace" {
   enabled           = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "soft-mandatory"
 }
 
 policy "workspace_name1" {
   enabled           = false
-  enforcement_level = "advisory"
+  enforcement_level = "soft-mandatory"
 }
 
 policy "workspace_name2" {
