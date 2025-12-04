@@ -8,7 +8,7 @@ policy "workspace_name_workspace_name_workspace_name_workspace" {
 
 policy "workspace_name1" {
   enabled           = false
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "hard-mandatory"
 }
 
 policy "workspace_name2" {
